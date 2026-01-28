@@ -1,0 +1,42 @@
+{
+  "NON-EDIBLES GROCERIES": {
+    "target_gross_sales": 300000,
+    "target_gp_percent": 20.0,
+    "rationale": "Strategic expansion target for staple categories"
+  },
+  "LIQUOR AND TOBACCO": {
+    "target_gross_sales": 800000,
+    "target_gp_percent": 28.0,
+    "rationale": "High-margin discretionary category growth"
+  },
+  "GENERAL MERCHANDISE": {
+    "target_gross_sales": 650000,
+    "target_gp_percent": 35.0,
+    "rationale": "Cross-category bundling opportunity"
+  },
+  "EDIBLES GROCERIES": {
+    "target_gross_sales": 600000,
+    "target_gp_percent": 18.0,
+    "rationale": "Volume-driven category expansion"
+  },
+  "FRESH DEPARTMENTS": {
+    "target_gross_sales": 450000,
+    "target_gp_percent": 32.0,
+    "rationale": "Premium fresh offerings growth"
+  },
+  "CLOTHING AND TEXTILES": {
+    "target_gross_sales": 150000,
+    "target_gp_percent": 42.0,
+    "rationale": "Higher margin apparel focus"
+  },
+  "FARMERS AND BUILDERS MART": {
+    "target_gross_sales": 120000,
+    "target_gp_percent": 25.0,
+    "rationale": "Seasonal category optimization"
+  },
+  "AIRTIME": {
+    "target_gross_sales": 60000,
+    "target_gp_percent": 10.0,
+    "rationale": "High-frequency convenience expansion"
+  }
+}

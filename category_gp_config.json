@@ -1,0 +1,34 @@
+{
+  "NON-EDIBLES GROCERIES": {
+    "gross_sales": 25790.12,
+    "target_gp_percent": 18.5
+  },
+  "LIQUOR AND TOBACCO": {
+    "gross_sales": 6566.51,
+    "target_gp_percent": 25.0
+  },
+  "GENERAL MERCHANDISE": {
+    "gross_sales": 5173.81,
+    "target_gp_percent": 32.0
+  },
+  "EDIBLES GROCERIES": {
+    "gross_sales": 5166.60,
+    "target_gp_percent": 15.5
+  },
+  "FRESH DEPARTMENTS": {
+    "gross_sales": 3258.11,
+    "target_gp_percent": 28.0
+  },
+  "CLOTHING AND TEXTILES": {
+    "gross_sales": 908.20,
+    "target_gp_percent": 40.0
+  },
+  "FARMERS AND BUILDERS MART": {
+    "gross_sales": 828.20,
+    "target_gp_percent": 22.5
+  },
+  "AIRTIME": {
+    "gross_sales": 350.00,
+    "target_gp_percent": 8.0
+  }
+}
